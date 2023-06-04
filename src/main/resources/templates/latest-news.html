@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latest News</title>
+</head>
+<body>
+
+    <h1>Crypto News of the Day</h1>
+    
+    <form method="post" th:action="/" th:if="${articles}" th:object="${save}">
+
+        <button type="submit" th:>Save</button>
+
+
+        <div th:each="article : ${articles}" th:object="${article}" >
+
+            <img th:src="*{imageurl}" />
+
+            <p>Id: <span th:text="*{id}"></span></p>
+            <br>
+
+            <h2><span th:text="*{title}"></span></h2>
+            <br>
+            
+            <p><span th:text="*{body}"></span></p>
+
+            <p>Categories: <span th:text="*{categories}"></span></p>
+            <p>Tags: <span th:text="*{tags}"></span></p>
+            <br>
+
+            <p>Published: <span th:text="*{published_on}"></span></p>
+            <a th:href="*{url}">Link</a>
+            <input type="checkbox" th:field="*{id}" /> Save
+
+        </div>
+
+
+    </form>
+    
+</body>
+</html>

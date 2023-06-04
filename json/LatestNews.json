@@ -1,0 +1,1009 @@
+{
+    "Type": 100,
+    "Message": "News list successfully returned",
+    "Promoted": [],
+    "Data": [
+        {
+            "id": "13121461",
+            "guid": "https://news.bitcoin.com/?p=591584",
+            "published_on": 1685795443,
+            "imageurl": "https://resources.cryptocompare.com/news/14/13121461.jpeg",
+            "title": "Peter Schiff Twitter Apparently Hacked, Shills Gold Crypto, Son Spencer Warns",
+            "url": "https://news.bitcoin.com/peter-schiff-twitter-apparently-hacked-shills-gold-crypto-son-spencer-warns/",
+            "body": "The Twitter account of Bitcoin critic Peter Schiff was found advertising a gold-branded token as a result of an apparent hacking. His son, crypto enthusiast Spencer Schiff, warned users in a tweet not to follow the link posted by the unknown attackers trying to lure victims using his father’s name. ‘Dad Almost Certainly Hacked,’ Son",
+            "tags": "News|Attack|attackers|Bitcoin|Critic|Crypto|crypto assets|Cryptocurrencies|Cryptocurrency|Economist|gold|Hack|Hackers|perpetrators|Peter Schiff|scammers|Schiff|Spencer Schiff|Token|Tweet|Twitter",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|FIAT|ICO|LINK",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+                "lang": "EN"
+            },
+            "source": "bitcoin.com"
+        },
+        {
+            "id": "13121449",
+            "guid": "https://thenewscrypto.com/?p=75786",
+            "published_on": 1685795410,
+            "imageurl": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+            "title": "Regulatory Challenges: Banks Grapple with Crypto Integration",
+            "url": "https://thenewscrypto.com/regulatory-challenges-banks-grapple-with-crypto-integration/",
+            "body": "Banks grapple with integrating these digital assets into their financial systems as cryptocurrencies continue to captivate consumers, investors, and financial",
+            "tags": "Market News|Blockchain|Crypto Regulations|Cryptocurrency|Regulations",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BLOCKCHAIN|BUSINESS",
+            "source_info": {
+                "name": "The News Crypto",
+                "img": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+                "lang": "EN"
+            },
+            "source": "thenewscrypto"
+        },
+        {
+            "id": "13121452",
+            "guid": "https://ambcrypto.com/?p=318205",
+            "published_on": 1685795400,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "These Bitcoin metrics signal potential bull run as…",
+            "url": "https://ambcrypto.com/these-bitcoin-metrics-signal-potential-bull-run-as/",
+            "body": "Amidst the wild price swings, Bitcoin's Realized Cap finds stability, hinting at a potential bull run. Miners profit as price falters in recent trades.",
+            "tags": "Bitcoin|BTC Trading View|News|News 1|Social|Trading View|Bitcoin miners|BTC",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|TRADING|BUSINESS",
+            "source_info": {
+                "name": "AMB Crypto",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+                "lang": "EN"
+            },
+            "source": "ambcrypto"
+        },
+        {
+            "id": "13121407",
+            "guid": "https://www.cryptopolitan.com/?p=313018",
+            "published_on": 1685795180,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "Arthur Hayes’ new article decoded – Here is what he said",
+            "url": "https://www.cryptopolitan.com/arthur-hayes-new-article-decoded-what-he-say/",
+            "body": "As financial markets continue their intricate dance, Arthur Hayes, the renowned financial expert and one of the smartest minds of our time, has released another one of his fantastic articles titled “Patience is Beautiful,” in which he drew some insightful parallels between life’s everyday moments and the volatile world of finance. Hayes also set forth ... Read more",
+            "tags": "Industry News|arthur hayes",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "MARKET",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+                "lang": "EN"
+            },
+            "source": "cryptopolitan"
+        },
+        {
+            "id": "13121342",
+            "guid": "https://u.today/no-peter-schiff-not-launching-gold-pegged-crypto-son-suspects-account-hack",
+            "published_on": 1685794920,
+            "imageurl": "https://resources.cryptocompare.com/news/64/13121342.jpeg",
+            "title": "No, Peter Schiff Doesn't Launch Gold-Pegged Crypto, Son Suspects Account Hack",
+            "url": "https://u.today/no-peter-schiff-not-launching-gold-pegged-crypto-son-suspects-account-hack",
+            "body": "Today, adamant Bitcoin (BTC) skeptic shared on his Twitter account promo of previously unknown token; here's why it is highly likely scam",
+            "tags": "Peter Schiff",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|ICO",
+            "source_info": {
+                "name": "U.Today",
+                "img": "https://images.cryptocompare.com/news/default/utoday.png",
+                "lang": "EN"
+            },
+            "source": "utoday"
+        },
+        {
+            "id": "13121297",
+            "guid": "https://timestabloid.com/?p=16292",
+            "published_on": 1685794634,
+            "imageurl": "https://resources.cryptocompare.com/news/67/default.png",
+            "title": "BabyDoge Hits Burn Milestone: 100 Quadrillion Tokens Worth $200 Million Removed from Circulation",
+            "url": "https://timestabloid.com/babydoge-hits-burn-milestone-100-quadrillion-tokens-worth-200-million-removed-from-circulation/",
+            "body": "While Shiba Ini is still seeking stability, its rival Baby Doge Coin attained remarkable landmarks by burning over 100 quadrillion BABYDOGE tokens estimated to be worth about $200 million in a single transaction. According to a tweet on Baby Doge Coin’s official Twitter handle, the upcoming meme coin platform confirmed that it burned 100,185,000,000,000,000 (100.18 The post BabyDoge Hits Burn Milestone: 100 Quadrillion Tokens Worth $200 Million Removed from Circulation appeared first on Times Tabloid .",
+            "tags": "Cryptocurrency|News|BabyDoge|Babydoge Burn",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ICO|DOGE",
+            "source_info": {
+                "name": "TimesTabloid",
+                "img": "https://resources.cryptocompare.com/news/67/default.png",
+                "lang": "EN"
+            },
+            "source": "timestabloid"
+        },
+        {
+            "id": "13121138",
+            "guid": "https://coinedition.com/?p=273604",
+            "published_on": 1685794080,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "Nike and EA Sports to Introduce NFTs for Artistic Self-Expression",
+            "url": "https://coinedition.com/nike-and-ea-sports-to-introduce-nfts-for-artistic-self-expression/",
+            "body": "In a groundbreaking collaboration, Nike and EA Sports are set to launch a new project that will revolutionize the world of NFTs and artistic self-expression within the realm of sports. The partnership aims to intertwine style and sport in innovative and exciting ways, providing members and players unparalleled opportunities to showcase their creativity. While specific The post Nike and EA Sports to Introduce NFTs for Artistic Self-Expression appeared first on Coin Edition .",
+            "tags": "News|NFT News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "OTHER",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13121026",
+            "guid": "https://bitcoinmagazine.com/culture/trump-election-denials-and-the-need-for-bitcoin-verification",
+            "published_on": 1685793600,
+            "imageurl": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png",
+            "title": "Trump’s Persistent Election Result Denials Demonstrate The Need For Bitcoin-Verified Truth",
+            "url": "https://bitcoinmagazine.com/culture/trump-election-denials-and-the-need-for-bitcoin-verification",
+            "body": "Donald Trump’s tireless 2020 election denials, and the fact that voters don’t know what to believe, demonstrates why politicians fear Bitcoin.",
+            "tags": "Culture|Politics|donald trump|Truth|Opinion",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC",
+            "source_info": {
+                "name": "Bitcoin Magazine",
+                "img": "https://images.cryptocompare.com/news/default/bitcoinmagazine.png",
+                "lang": "EN"
+            },
+            "source": "bitcoinmagazine"
+        },
+        {
+            "id": "13120940",
+            "guid": "https://www.cryptopolitan.com/?p=313008",
+            "published_on": 1685793183,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "There is a global race to regulate AI innovations",
+            "url": "https://www.cryptopolitan.com/there-is-a-global-race-to-regulate-ai/",
+            "body": "The race is on. A worldwide pursuit to reign in the boundless frontiers of artificial intelligence (AI) is underway, reflecting our global society’s struggle to grapple with the implications of rapidly progressing technology. Emerging AI tools like ChatGPT, backed by tech behemoth Microsoft, are finding themselves under scrutiny from national and international governing bodies. This ... Read more",
+            "tags": "News|artificial intelligence|China|France|italy|japan|united kingdom|United States of America",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ASIA|TECHNOLOGY",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+                "lang": "EN"
+            },
+            "source": "cryptopolitan"
+        },
+        {
+            "id": "1665156",
+            "guid": "https://www.cryptopolitan.com/?p=45038",
+            "published_on": 1685793026,
+            "imageurl": "https://resources.cryptocompare.com/news/43/1665156.jpeg",
+            "title": "Cardano Price Prediction 2023-2032: Is ADA a good investment?",
+            "url": "https://www.cryptopolitan.com/cardano-price-prediction/",
+            "body": "Cardano Price Predictions 2023-2032 Yet again, the crypto market is toiling in the abyss of uncertainty following the runoff on the FTX cryptocurrency exchange and the failed attempt of a takeover by Binance. The entire fiasco started after Binance’s CZ expressed doubts about the integrity of Almeda research, a trading affiliate of FTX. The tweet ... Read more",
+            "tags": "Cardano News|Price Prediction|cryptocurrency|Cryptocurrency investment",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ADA|TRADING|MARKET|EXCHANGE",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+                "lang": "EN"
+            },
+            "source": "cryptopolitan"
+        },
+        {
+            "id": "13120808",
+            "guid": "https://dailyhodl.com/?p=248061",
+            "published_on": 1685792714,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Popular Crypto Analyst Bullish on One Ethereum-Based Altcoin, Says It’s Showing ‘Solid Strength’",
+            "url": "https://dailyhodl.com/2023/06/03/popular-crypto-analyst-bullish-on-one-ethereum-based-altcoin-says-its-showing-solid-strength/",
+            "body": "A widely followed crypto analyst says that one Ethereum (ETH)-based altcoin is flashing signs of bullishness against both the US dollar and Bitcoin (BTC). Pseudonymous crypto analyst Kaleo tells his 590,200 Twitter followers that the decentralized derivatives exchange Injective (INJ) looks poised to outperform Bitcoin (INJ/BTC). According to a chart shared by the analyst, the The post Popular Crypto Analyst Bullish on One Ethereum-Based Altcoin, Says It’s Showing ‘Solid Strength’ appeared first on The Daily Hodl .",
+            "tags": "Altcoins|Trading|INJ|Injective|News|trading",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ALTCOIN|TRADING|BTC|ETH|EXCHANGE",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+                "lang": "EN"
+            },
+            "source": "dailyhodl"
+        },
+        {
+            "id": "13120741",
+            "guid": "https://coinpedia.org/?p=204616",
+            "published_on": 1685792483,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinpedia.png",
+            "title": "FTX’s $3.9B Claim Sparks Major Crypto Clash – Prepare for the Unexpected?",
+            "url": "https://coinpedia.org/news/ftxs-3-9b-claim-sparks-major-crypto-clash-prepare-for-the-unexpected/",
+            "body": "The post FTX’s $3.9B Claim Sparks Major Crypto Clash – Prepare for the Unexpected? appeared first on Coinpedia Fintech News FTX Trading Ltd. and its affiliates, prominent creditors of the bankrupt crypto lender Genesis Global Holdco, aren’t entirely happy about extending court-mediated settlement talks. So, what’s behind this escalating drama? Invitation Not Received: FTX Expresses Discontent Claiming major credit from Genesis, FTX announced it had been left out of the court-appointed mediation held in May. …",
+            "tags": "News|Crypto news",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TRADING",
+            "source_info": {
+                "name": "coinpedia",
+                "img": "https://images.cryptocompare.com/news/default/coinpedia.png",
+                "lang": "EN"
+            },
+            "source": "coinpedia"
+        },
+        {
+            "id": "13120691",
+            "guid": "https://coinedition.com/?p=273603",
+            "published_on": 1685792160,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "Japan’s Banks Prepare to Use MFG’s Progmat Coin to Issue Stablecoins",
+            "url": "https://coinedition.com/japans-banks-prepare-to-use-mfgs-progmat-coin-to-issue-stablecoins/",
+            "body": "Mitsubishi UFG Financial Group (MFG), a Japanese financial services company announced on June 2 that Progmat Coin, the stablecoin issuance platform of MFG would facilitate the issuance of bank-backed stablecoins on the leading crypto networks including Ethereum, Polygon, Avalanche, and Cosmos. The report stated that the Japanese banks would soon use Progmat Coin to launch The post Japan’s Banks Prepare to Use MFG’s Progmat Coin to Issue Stablecoins appeared first on Coin Edition .",
+            "tags": "News|Blockchain News|Stablecoin",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ASIA|ATOM|AVAX|ETH|MATIC",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13120696",
+            "guid": "https://cryptonews.com/news/dogecoin-price-prediction-as-elon-musk-hit-with-doge-insider-trading-lawsuit-is-he-pumping-meme-coins.htm",
+            "published_on": 1685792040,
+            "imageurl": "https://resources.cryptocompare.com/news/52/13120696.jpeg",
+            "title": "Dogecoin Price Prediction as Elon Musk Hit With DOGE Insider Trading Lawsuit - Is He Pumping Meme Coins?",
+            "url": "https://cryptonews.com/news/dogecoin-price-prediction-as-elon-musk-hit-with-doge-insider-trading-lawsuit-is-he-pumping-meme-coins.htm",
+            "body": "As Dogecoin continues to capture the attention of the cryptocurrency market, a recent development has raised eyebrows among investors and enthusiasts. Elon Musk, the influential billionaire and Tesla CEO, is now facing an insider trading lawsuit specifically related to his tweets and statements about Dogecoin.... Read More: Dogecoin Price Prediction as Elon Musk Hit With DOGE Insider Trading Lawsuit - Is He Pumping Meme Coins?",
+            "tags": "Altcoin News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "DOGE|TRADING|BUSINESS|ICO|MARKET",
+            "source_info": {
+                "name": "cryptonews",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png",
+                "lang": "EN"
+            },
+            "source": "cryptonews"
+        },
+        {
+            "id": "13120637",
+            "guid": "https://news.bitcoin.com/?p=591567",
+            "published_on": 1685791801,
+            "imageurl": "https://resources.cryptocompare.com/news/14/13120637.jpeg",
+            "title": "Bitcoin, Ethereum Technical Analysis: BTC Consolidates on Saturday, Despite Recent Bullish Signals",
+            "url": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-btc-consolidates-on-saturday-despite-recent-bullish-signals/",
+            "body": "Bitcoin started the weekend in the red, as markets continued to digest the latest nonfarm payrolls in the United States. Despite payrolls coming in better than expected, the unemployment rate also rose, hitting 3.7%, which is its highest point since last October. Bitcoin Bitcoin (BTC) was mostly consolidating to start the weekend, as traders continued",
+            "tags": "Market Updates|Analysis|Bitcoin|BTC|ETH|Ethereum|Unemployment",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|ETH|MARKET|TRADING",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+                "lang": "EN"
+            },
+            "source": "bitcoin.com"
+        },
+        {
+            "id": "13120580",
+            "guid": "https://timestabloid.com/?p=16289",
+            "published_on": 1685791551,
+            "imageurl": "https://resources.cryptocompare.com/news/67/default.png",
+            "title": "Cardano (ADA) Price Prediction as Total Value Locked Surges Nearly 300% in 2023",
+            "url": "https://timestabloid.com/cardano-ada-price-prediction-as-total-value-locked-surges-nearly-300-in-2023/",
+            "body": "With an increase of about 300% in the Total Value Locked (TVL) on the Cardano ecosystem between January and June 2023, ADA has been primed by analysts to perform appreciably in the coming weeks or months. According to data extracted from DeFiLama, the largest TVL aggregator for DeFi (Decentralized Finance), a whopping $181.09 million in The post Cardano (ADA) Price Prediction as Total Value Locked Surges Nearly 300% in 2023 appeared first on Times Tabloid .",
+            "tags": "Cryptocurrency|News|ADA|ADA Price|Cardano|Cardano (ADA)|Cardano Total Value Locked|Cardano TVL",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ADA|TRADING",
+            "source_info": {
+                "name": "TimesTabloid",
+                "img": "https://resources.cryptocompare.com/news/67/default.png",
+                "lang": "EN"
+            },
+            "source": "timestabloid"
+        },
+        {
+            "id": "13120450",
+            "guid": "https://thecryptobasic.com/?p=49592",
+            "published_on": 1685791163,
+            "imageurl": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+            "title": "Here’s How Much Shiba Inu Gate.io Holds Amid Bankruptcy Rumors",
+            "url": "https://thecryptobasic.com/2023/06/03/heres-how-much-shiba-inu-gate-io-holds-amid-bankruptcy-rumors/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=heres-how-much-shiba-inu-gate-io-holds-amid-bankruptcy-rumors",
+            "body": "Amid bankruptcy rumors, prominent exchange Gate.io holds trillions of Shiba Inu (SHIB) tokens valued at millions of dollars. In a recent tweet, prominent market tracker Lookonchain brought attention to the staggering amount of Shiba Inu (SHIB) coins held on Gate.io, a popular crypto exchange platform, amid the looming bankruptcy rumors. The tweet highlighted the updated The post Here’s How Much Shiba Inu Gate.io Holds Amid Bankruptcy Rumors first appeared on The Crypto Basic .",
+            "tags": "Market|Gate.io|Shiba Inu Coin",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "SHIB|EXCHANGE|MARKET|ICO",
+            "source_info": {
+                "name": "The Crypto Basic",
+                "img": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+                "lang": "EN"
+            },
+            "source": "thecryptobasic"
+        },
+        {
+            "id": "13120291",
+            "guid": "https://finbold.com/?p=109608",
+            "published_on": 1685790396,
+            "imageurl": "https://images.cryptocompare.com/news/default/finbold.png",
+            "title": "June crypto outlook: The worst is not over for Bitcoin",
+            "url": "https://finbold.com/june-crypto-outlook-the-worst-is-not-over-for-bitcoin/",
+            "body": "Bitcoin (BTC) has recorded a notable recovery breaching the $27,000 mark again, leading to increased speculation that the asset is … Continued The post June crypto outlook: The worst is not over for Bitcoin appeared first on Finbold .",
+            "tags": "Cryptocurrency news|Bitcoin|BTC|cryptocurrency",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC",
+            "source_info": {
+                "name": "Finbold",
+                "img": "https://images.cryptocompare.com/news/default/finbold.png",
+                "lang": "EN"
+            },
+            "source": "finbold"
+        },
+        {
+            "id": "13120248",
+            "guid": "https://cryptopotato.com/?p=253660",
+            "published_on": 1685790311,
+            "imageurl": "https://resources.cryptocompare.com/news/27/13120248.jpeg",
+            "title": "The Reasons AI Could be Dangerous for Humanity According to Geoffrey Hinton",
+            "url": "https://cryptopotato.com/fears-for-humanity-and-the-dangers-of-artificial-intelligence-according-to-geoffrey-hinton/",
+            "body": "Will AI be a turning point for humanity? Geoffrey Hinton talks about the dangers of artificial intelligence.",
+            "tags": "AA News|Crypto News|social|Artificial Intelligence (AI)|ChatGPT",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "OTHER",
+            "source_info": {
+                "name": "Crypto Potato",
+                "img": "https://images.cryptocompare.com/news/default/cryptopotato.png",
+                "lang": "EN"
+            },
+            "source": "cryptopotato"
+        },
+        {
+            "id": "13120269",
+            "guid": "https://cointelegraph.com/news/openai-commits-1m-to-support-ai-driven-cybersecurity-initiatives",
+            "published_on": 1685790175,
+            "imageurl": "https://resources.cryptocompare.com/news/16/13120269.jpeg",
+            "title": "OpenAI commits $1M to support AI-driven cybersecurity initiatives",
+            "url": "https://cointelegraph.com/news/openai-commits-1m-to-support-ai-driven-cybersecurity-initiatives",
+            "body": "As criminals devise innovative ways to exploit AI for malicious intentions, OpenAI remains committed to equipping “defenders” with the necessary tools.",
+            "tags": "AI|Technology|Security",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TECHNOLOGY",
+            "source_info": {
+                "name": "CoinTelegraph",
+                "img": "https://images.cryptocompare.com/news/default/cointelegraph.png",
+                "lang": "EN"
+            },
+            "source": "cointelegraph"
+        },
+        {
+            "id": "13120179",
+            "guid": "https://coinpedia.org/?p=204642",
+            "published_on": 1685790000,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinpedia.png",
+            "title": "Synthetix Volume Surges As SNX Burn Is Proposed – Will It Support AI Cryptos In The Future?",
+            "url": "https://coinpedia.org/press-release/synthetix-volume-surges-snx-burn-is-proposed-will-it-support-ai-cryptos-in-future/",
+            "body": "The post Synthetix Volume Surges As SNX Burn Is Proposed – Will It Support AI Cryptos In The Future? appeared first on Coinpedia Fintech News Synthetix has experienced a surge in trading volume following a new proposal that suggests the burning of its SNX tokens. This development has sparked discussions, and some crypto watchers suggest a potential impact on the future of AI cryptocurrencies. Could Synthetix’s proposed token burn pave the way for enhanced support and trading opportunities for AI-based …",
+            "tags": "Press Release",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "SNX|ICO|TRADING|SPONSORED",
+            "source_info": {
+                "name": "coinpedia",
+                "img": "https://images.cryptocompare.com/news/default/coinpedia.png",
+                "lang": "EN"
+            },
+            "source": "coinpedia"
+        },
+        {
+            "id": "13120178",
+            "guid": "https://cryptodaily.co.uk/2023/06/draft-bill-lays-out-clear-roles-for-sec-and-cftc",
+            "published_on": 1685789880,
+            "imageurl": "https://resources.cryptocompare.com/news/75/13120178.jpeg",
+            "title": "Draft Bill Lays Out Clear Roles For SEC And CFTC",
+            "url": "https://cryptodaily.co.uk/2023/06/draft-bill-lays-out-clear-roles-for-sec-and-cftc",
+            "body": "Republican lawmakers Patrick McHenry and Glen Thompson have introduced a draft bill proposing clear roles and delineation of authority between the SEC and CFTC regarding crypto. A Clearer Regulatory Plan The draft bill, released on Friday, provides crypto assets and exchanges a clearer regulatory plan, enabling the trading of digital assets on more conventional trading platforms. It also seeks to introduce a division of authority between the two top US financial regulators. The draft, published on the 2nd of June, 2023, proposes establishing a functional framework that provides regulatory clarity for cryptocurrency firms and exchanges operating in the United States. “Key House Republicans Unveil Crypto Market Structure Draft Bill The draft legislation was unveiled today by House Financial Services Committee Chairman @PatrickMcHenry and House Agriculture Committee Chairman @CongressmanGT.” The bill would prohibit the United States Securities and Exchange Commission (SEC) from denying digital asset trading platforms from registering as a regulated alternative trading system. It would also allow the firms in question to offer payment stablecoins and digital commodities. The bill cracks down on the much-criticized approach of the Securities and Exchange Commission, which does not offer any clear rules or roadmap for the crypto space. Under the bill’s framework, specific digital assets could qualify as digital commodities if they were functional and considered decentralized assets. It would also require the SEC to provide a complete and detailed analysis of any objections against the classification of a firm as decentralized. The draft states, “The Act also requires the SEC to modify its rules to allow broker-dealers to custody digital assets if they meet certain requirements. Additionally, the Act would require the SEC to write rules to modernize certain regulations for digital assets.” Crypto Space Lauds Draft Bill The crypto space praised the bill and initiative. Paul Grewal, Chief Legal Officer at Coinbase, stated that the draft bill lays a strong foundation for regulatory jurisdictions and definitions. However, he added that the bill needed an in-depth review before being formally introduced. Coinbase has recently launched a pro-adoption ad campaign as it looks to attend a lobbying-focused event to be held in Washington DC, in July. However, the bill was introduced by Republican lawmakers and lacks any input from the Democrats. Both Democrats and Republicans have, at times, shown a willingness to take a bipartisan approach to crypto regulation. It is not clear how the proposed legislation would perform in a highly divided Congress. The US House and Senate have recently passed legislation that would stop the government from going into default. The legislation raises the debt ceiling, with President Biden expected to sign the bill into law by the 2nd of June. SEC vs. Crypto Cryptocurrency exchanges operating in the United States have long been calling for regulatory clarity as they grapple with enforcement action from regulators. As a result, many are moving to shift operations outside the United States of America. Prominent exchanges such as Gemini and Coinbase have announced off-shore operations. Coinbase is also locked in a courtroom battle with the Securities and Exchange Commission after it received a Wells notice earlier in the year. A Wells notice is a warning of impending enforcement action. Disclaimer: This article is provided for informational purposes only. It is not offered or intended to be used as legal, tax, investment, financial, or other advice.",
+            "tags": "",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "REGULATION|TRADING|EXCHANGE|COMMODITY|MARKET",
+            "source_info": {
+                "name": "Crypto Daily",
+                "img": "https://resources.cryptocompare.com/news/75/default.png",
+                "lang": "EN"
+            },
+            "source": "cryptodaily"
+        },
+        {
+            "id": "13120133",
+            "guid": "https://u.today/tron-trx-suddenly-jumps-11-here-might-be-reason",
+            "published_on": 1685789760,
+            "imageurl": "https://resources.cryptocompare.com/news/64/13120133.jpeg",
+            "title": "Tron (TRX) Suddenly Jumps 11%, Here Might Be Reason",
+            "url": "https://u.today/tron-trx-suddenly-jumps-11-here-might-be-reason",
+            "body": "TRX has been on steady rise since March 22 after its price hit lows of $0.056",
+            "tags": "TRON News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TRX|TRADING",
+            "source_info": {
+                "name": "U.Today",
+                "img": "https://images.cryptocompare.com/news/default/utoday.png",
+                "lang": "EN"
+            },
+            "source": "utoday"
+        },
+        {
+            "id": "13120130",
+            "guid": "https://coinedition.com/?p=273592",
+            "published_on": 1685789760,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "IMX’s Price May Continue to Rise Following Its Recent Spike",
+            "url": "https://coinedition.com/imxs-price-may-continue-to-rise-following-its-recent-spike/",
+            "body": "The price of Immutable (IMX) surged in the past 24 hours according to CoinMarketCap. At press time, the altcoin’s price was trading at $0.8098 after it had printed a 24-hour gain of 6.61%. In addition, the crypto was able to establish a daily high at $0.8272 and had retraced since then. During the past 24 The post IMX’s Price May Continue to Rise Following Its Recent Spike appeared first on Coin Edition .",
+            "tags": "News|ImmutableX (IMX)|Market News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TRADING|ALTCOIN",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13120065",
+            "guid": "https://cryptonews.com/news/pick-or-rick-crypto-trending-above-pepe-on-dextools-after-elon-musk-tweet-meme-coin-insider-trading.htm",
+            "published_on": 1685789400,
+            "imageurl": "https://resources.cryptocompare.com/news/52/13120065.jpeg",
+            "title": "Pick Or Rick ($RICK) Token Trends Above $PEPE On DEXTools With Elon Musk Tweet - Meme Coin Insider Trading?",
+            "url": "https://cryptonews.com/news/pick-or-rick-crypto-trending-above-pepe-on-dextools-after-elon-musk-tweet-meme-coin-insider-trading.htm",
+            "body": "An episode of Adult Swim's cartoon Rick and Morty has inspired the latest meme coin on Uniswap, with the apparent help of an Elon Musk tweet - Pick Or Rick (RICK) token. The RICK/WETH pair made the top ten list of hot pairs on DEXTools today, at points being the #1 trending token, higher than Pepe (PEPE).... Read More: Pick Or Rick ($RICK) Token Trends Above $PEPE On DEXTools With Elon Musk Tweet - Meme Coin Insider Trading?",
+            "tags": "Altcoin News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ICO|TRADING|UNI",
+            "source_info": {
+                "name": "cryptonews",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png",
+                "lang": "EN"
+            },
+            "source": "cryptonews"
+        },
+        {
+            "id": "13119976",
+            "guid": "https://www.newsbtc.com/?p=536352",
+            "published_on": 1685789119,
+            "imageurl": "https://images.cryptocompare.com/news/default/newsbtc.png",
+            "title": "Whale’s ARB Accumulation Rekindles Momentum For DeFi Token – Here’s Why",
+            "url": "https://www.newsbtc.com/news/whales-arb-accumulation-boosts-token/",
+            "body": "Arbitrum (ARB), a prominent governance token in the decentralized finance (DeFi) ecosystem, recently witnessed a decent surge in price following renewed buying activity from a well-known DeFi whale address. Large-scale investors often influence market sentiment and can significantly impact the price of a given asset. However, as the rally unfolds, questions arise about the sustainability of this upward momentum and its implications for the future of Arbitrum. Related Reading: Floki Inu Gains Momentum As Chinese E-Commerce Giant Recognizes Its Utility Whale’s Unusual Buying Activity Coincides With ARB’s Rally Arbitrum’s (ARB) current price of $1.24 on CoinMarketCap highlights its remarkable performance, with a noteworthy 3.4% rally witnessed within the past 24 hours, followed by an impressive seven-day climb of 7%. Interestingly, this surge in value coincided with unusual buying activity associated with renowned trader Andrew Kang’s crypto addresses. Source: CoinMarketCap Particularly noteworthy is the fact that Andrew Kang, co-founder of Mechanism Capital, has been making some interesting movements within the Arbitrum ecosystem. Kang put $1 million worth of stablecoins into Arbitrum pools and allocated nearly a quarter of the funds to the purchase of RDNT tokens. RDNT is the native token of the DeFi lending platform Radiant Capital. BTCUSD currently trading at $27,150 on the weekend chart: TradingView.com Related Reading: XRP $1 Threshold On The Horizon? Noted Trader Fuels Speculation After filling his bags with RDNT, Kang subsequently exchanged his newly acquired tokens and existing RDNT reserves for $867,000 worth of ARB. These transactions were further followed by Kang depositing the proceeds into Radiant Capital, where he borrowed Circle’s USD Coin. These details have been revealed through data obtained from Lookonchain, a reliable data resource. Seems like Andrew Kang is using leverage to go long $ARB on @RDNTCapital. Buy $ARB → Deposit $ARB → Borrow $USDC → Buy $ARBhttps://t.co/PQwi0Zj9TT pic.twitter.com/afXjeRtTpv — Lookonchain (@lookonchain) June 2, 2023 Multiple Whales Seize Opportunity As ARB Price Improves In addition to Kang’s intriguing buying activity, another significant player, known by the address “0xf59b,” has also recognized the potential in ARB’s upward trajectory. This whale made a strategic move by depositing 1.2 million ARB tokens, equivalent to $1.5 million, into the popular cryptocurrency exchange OKX. Whale”0xf59b” finally waited for the rise of $ARB and deposited 1.2M $ARB ($1.5M) into #OKX 30 minutes ago. He withdrew 1.2M $ARB from #OKX on May 8th, and the buying price may be around $1.2.https://t.co/cJReZfg007 pic.twitter.com/jFwBRtPUpK — Lookonchain (@lookonchain) June 2, 2023 This whale’s decision to pull the tokens out from OKX on May 8 and potentially purchase them at around the $1.2 mark suggests a deliberate strategy of waiting for a price increase before taking advantage of their holdings. By carefully timing their actions, this entity sought to maximize their potential gains as ARB’s value climbed. These recent large-scale investments signify a growing optimism surrounding Arbitrum’s Layer 2 solution, despite the challenges it has faced in the market recently. The renewed interest from both Kang and the whale behind the address “0xf59b” reflects a belief in the long-term viability and potential profitability of ARB. Furthermore, these strategic moves by multiple whales indicate a broader sentiment within the crypto market. As the Ethereum network gradually recovers from the recent drop, there is a growing expectation of increased activity on Layer 2 networks. This anticipation sets the stage for a potentially bullish cycle for these networks, including Arbitrum. (This site’s content should not be construed as investment advice. Investing involves risk. When you invest, your capital is subject to risk) -Featured image from The Conversation",
+            "tags": "Cryptocurrency Market News|ARB price|Arbitrum|btcusd|ethusd|Layer 2|Price action",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TRADING|ICO|MARKET|BUSINESS|ETH",
+            "source_info": {
+                "name": "NewsBTC",
+                "img": "https://images.cryptocompare.com/news/default/newsbtc.png",
+                "lang": "EN"
+            },
+            "source": "newsbtc"
+        },
+        {
+            "id": "13119975",
+            "guid": "https://www.newsbtc.com/?p=536343",
+            "published_on": 1685789114,
+            "imageurl": "https://resources.cryptocompare.com/news/21/13119975.jpeg",
+            "title": "Injective Protocol (INJ) Tallies 23% Price Surge In Past 7 Days – Here’s Why",
+            "url": "https://www.newsbtc.com/altcoin/injective-protocol-inj-tallies-23-price-surge-in-past-7-days-heres-why/",
+            "body": "Injective Protocol, a prominent blockchain platform catering to decentralized applications (dApps), has recently gained significant attention due to the notable surge in the price of its native token, injective (INJ). Over the past week, the INJ token has experienced a remarkable growth rate of 23%. This surge reflects the growing market interest in the platform and underscores the utility and governance features associated with the INJ token. Serving as a dual-purpose instrument, the INJ token empowers users by offering them utility within the platform while granting them a say in shaping its future through governance mechanisms. What’s The Cause Of The Spike? At the time of writing, the price of INJ stands at $7.83, experiencing a minor 0.9% decline within the day. However, over the course of the week, INJ has demonstrated a commendable increase of 23%. This surge in price is coupled with a circulating supply of $100 million, contributing to the platform’s liquidity and overall market dynamics. The positive market sentiment and a high Total Value Locked (TVL) have been identified as key factors driving the recent price boom for Injective (INJ). Related Reading: Celsius Sets New Standard: $1 Billion In ETH Staked As Deposits Show No Sign Of Slowing Exciting developments lie ahead for Injective as it reveals its plans to revamp its proof-of-stake (PoS) delegation mechanism through the Avalon upgrade. This upgrade will introduce an advanced system, incorporating sub-second block times and layer-1 scalability optimizations. By leveraging the Avalon upgrade, Injective (INJ) aims to enhance transaction speed and efficiency, promising a more seamless user experience on the platform. The impressive growth of Injective (INJ) and its commitment to innovation through the Avalon upgrade position the project as a notable player in the blockchain industry. With a positive market outlook and advancements on the horizon, Injective (INJ) continues to captivate investors and enthusiasts alike. What’s Next For Injective (INJ)? Injective (INJ) is gearing up to revolutionize its decentralized exchange (DEX) by introducing the Avalon upgrade, which promises to deliver improved performance, scalability, and an enhanced user experience. This upgrade is expected to positively impact the price of Injective (INJ), according to analysts who suggest a potential bullish sentiment for the token. With the Avalon upgrade, Injective (INJ) aims to elevate its DEX to new heights, offering faster and more efficient transactions. Implementing sub-second block times and layer-1 scalability optimizations is poised to attract more users to the platform and drive increased demand for the token. Related Reading: Floki Inu Gains Momentum As Chinese E-Commerce Giant Recognizes Its Utility The market outlook for Injective (INJ) appears promising, with analysts predicting a potential price increase. Speculations suggest that the price of INJ could reach $9.74 by the end of 2023, reflecting a bullish sentiment among investors and signaling confidence in the platform’s future growth. As Injective (INJ) prepares to unlock the full potential of its decentralized exchange with the Avalon upgrade, traders and enthusiasts eagerly anticipate the enhanced performance and scalability it will bring. With positive market predictions, the future looks bright for Injective (INJ) as it aims to solidify its position as a leading player in the blockchain ecosystem. -Featured image from iStock.com and charts from TradingView.com",
+            "tags": "Altcoin|altcoin|Injective (INJ)|Injective Protocol",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "TRADING|ICO|MARKET|BLOCKCHAIN|ALTCOIN",
+            "source_info": {
+                "name": "NewsBTC",
+                "img": "https://images.cryptocompare.com/news/default/newsbtc.png",
+                "lang": "EN"
+            },
+            "source": "newsbtc"
+        },
+        {
+            "id": "13119820",
+            "guid": "https://thecryptobasic.com/?p=49587",
+            "published_on": 1685788482,
+            "imageurl": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+            "title": "XRP Among Top Trending Assets on CMC, CoinGecko and KuCoin Amid 10% Surge",
+            "url": "https://thecryptobasic.com/2023/06/03/xrp-among-top-trending-assets-on-cmc-coingecko-and-kucoin-amid-10-surge/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=xrp-among-top-trending-assets-on-cmc-coingecko-and-kucoin-amid-10-surge",
+            "body": "XRP is currently among the top trending assets on KuCoin, and the leading price-tracking platforms CoinMarketCap and CoinGecko. XRP has continued to garner the interest of the broader crypto community due to its unique position and penchant for solo rallies. This increased attention has skyrocketed XRP to the top trending lists on several platforms, including The post XRP Among Top Trending Assets on CMC, CoinGecko and KuCoin Amid 10% Surge first appeared on The Crypto Basic .",
+            "tags": "Market|KuCoin|XRP",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "XRP|MARKET",
+            "source_info": {
+                "name": "The Crypto Basic",
+                "img": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+                "lang": "EN"
+            },
+            "source": "thecryptobasic"
+        },
+        {
+            "id": "13119752",
+            "guid": "https://ambcrypto.com/?p=318197",
+            "published_on": 1685788228,
+            "imageurl": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+            "title": "Shiba Inu in liquidity squeeze – end of the road for SHIB?",
+            "url": "https://ambcrypto.com/shiba-inu-in-liquidity-squeeze-end-of-the-road-for-shib/",
+            "body": "As a tier-1 memecoin, Shiba Inu has struggled with attracting the kind of liquidity it had in 2021. The path ahead is limited for SHIB, so where can it head next?",
+            "tags": "Altcoin|News|News 1|Social|Trading View|SHIB|Shiba Inu",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "SHIB|ALTCOIN",
+            "source_info": {
+                "name": "AMB Crypto",
+                "img": "https://images.cryptocompare.com/news/default/ambcrypto.png",
+                "lang": "EN"
+            },
+            "source": "ambcrypto"
+        },
+        {
+            "id": "13119767",
+            "guid": "https://thenewscrypto.com/?p=75781",
+            "published_on": 1685788200,
+            "imageurl": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+            "title": "Montenegro Court Once Again Grants Bail to Terra’s Do Kwon",
+            "url": "https://thenewscrypto.com/montenegro-court-once-again-grants-bail-to-terras-do-kwon/",
+            "body": "A lawyer for Terra co-founder Do Kwon and former CFO Han Chang-joon said on Friday that their bail request had",
+            "tags": "Altcoin News|Tradingview|Altcoin|Terra",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "LUNA|ALTCOIN",
+            "source_info": {
+                "name": "The News Crypto",
+                "img": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+                "lang": "EN"
+            },
+            "source": "thenewscrypto"
+        },
+        {
+            "id": "1684774",
+            "guid": "https://www.cryptopolitan.com/?p=45244",
+            "published_on": 1685788184,
+            "imageurl": "https://resources.cryptocompare.com/news/43/1684774.jpeg",
+            "title": "Dogecoin Price Prediction 2023-2032: DOGE to the Moon?",
+            "url": "https://www.cryptopolitan.com/dogecoin-price-prediction/",
+            "body": "Here are top Dogecoin predictions and price trends from the Cryptopolitan team. Review its background and long-term commentary.",
+            "tags": "Price Prediction|crptocurrency|crypto trading|doge",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "DOGE|TRADING",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+                "lang": "EN"
+            },
+            "source": "cryptopolitan"
+        },
+        {
+            "id": "13119659",
+            "guid": "https://coinedition.com/?p=273586",
+            "published_on": 1685787780,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "Unveiling Government’s Anti-Bitcoin Strategy: Insights From Simply Bitcoin",
+            "url": "https://coinedition.com/unveiling-governments-anti-bitcoin-strategy-insights-from-simply-bitcoin/",
+            "body": "YouTube channel Simply Bitcoin recently posted a YouTube video with guest Dr. Albert Ngi, who is the Optemerist to accept crypto payments including Bitcoin. The video further delved into the Government’s new strategy to “Stop Bitcoin Adoption,” as the title suggests. In the beginning, the show host announces that the Bitcoin price stood at $27,065 The post Unveiling Government’s Anti-Bitcoin Strategy: Insights From Simply Bitcoin appeared first on Coin Edition .",
+            "tags": "News|Bitcoin News|Market News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|TRADING",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13119640",
+            "guid": "https://u.today/charles-hoskinson-gives-harsh-response-to-cardano-ada-hater",
+            "published_on": 1685787660,
+            "imageurl": "https://resources.cryptocompare.com/news/64/13119640.jpeg",
+            "title": "Charles Hoskinson Gives Harsh Response to Cardano (ADA) Hater",
+            "url": "https://u.today/charles-hoskinson-gives-harsh-response-to-cardano-ada-hater",
+            "body": "Founder of Cardano complains about haters who claim that Cardano has nothing to show for",
+            "tags": "Charles Hoskinson",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ADA",
+            "source_info": {
+                "name": "U.Today",
+                "img": "https://images.cryptocompare.com/news/default/utoday.png",
+                "lang": "EN"
+            },
+            "source": "utoday"
+        },
+        {
+            "id": "13119613",
+            "guid": "https://thenewscrypto.com/?p=75779",
+            "published_on": 1685787600,
+            "imageurl": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+            "title": "Tron’s TRX Token Now Live on Ethereum Blockchain, Price Surges 12%",
+            "url": "https://thenewscrypto.com/trons-trx-token-now-live-on-ethereum-blockchain-price-surges-12/",
+            "body": "On Friday, Justin Sun announced on Twitter that TRON’s TRX cryptocurrency is now live on the Ethereum blockchain. This was",
+            "tags": "Altcoin News|Tradingview|ETHEREUM|Justin Sun|Tron",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ETH|BLOCKCHAIN|TRX|ICO|TRADING",
+            "source_info": {
+                "name": "The News Crypto",
+                "img": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+                "lang": "EN"
+            },
+            "source": "thenewscrypto"
+        },
+        {
+            "id": "13119458",
+            "guid": "https://thenewscrypto.com/?p=75777",
+            "published_on": 1685786940,
+            "imageurl": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+            "title": "Twitter Account of Peter Schiff Hacked To Promote Crypto Phishing Scam",
+            "url": "https://thenewscrypto.com/twitter-account-of-peter-schiff-hacked-to-promote-crypto-phishing-scam/",
+            "body": "Peter Schiff, a vocal critic of cryptocurrencies and supporter of gold, had his account hacked and used to promote what",
+            "tags": "Bitcoin News|Tradingview|Bitcoin|Peter Schiff",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|FIAT",
+            "source_info": {
+                "name": "The News Crypto",
+                "img": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+                "lang": "EN"
+            },
+            "source": "thenewscrypto"
+        },
+        {
+            "id": "13119373",
+            "guid": "https://coinpedia.org/?p=204756",
+            "published_on": 1685786605,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinpedia.png",
+            "title": "Is XRP Really a Security? Top Lawyers Clash in Fierce Debate",
+            "url": "https://coinpedia.org/news/is-xrp-really-a-security-top-lawyers-clash-in-fierce-debate/",
+            "body": "The post Is XRP Really a Security? Top Lawyers Clash in Fierce Debate appeared first on Coinpedia Fintech News As the Ripple lawsuit nears its conclusion, a burning question ignites the conversation among legal experts: Is XRP a security? In a recent debate, Australian lawyer Bill Morgan throws fuel on the fire, mentioning XRP burns to challenge the notion that all XRP-related transactions are securities. But what was the counter-argument? https://twitter.com/Belisarius2020/status/1664779706003243009 Marc Fagel: A …",
+            "tags": "News|Crypto news|Ripple (XRP)",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "XRP|REGULATION",
+            "source_info": {
+                "name": "coinpedia",
+                "img": "https://images.cryptocompare.com/news/default/coinpedia.png",
+                "lang": "EN"
+            },
+            "source": "coinpedia"
+        },
+        {
+            "id": "13119347",
+            "guid": "https://dailycoin.com/?p=143312",
+            "published_on": 1685786400,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailycoin.png",
+            "title": "Real-World Assets in Blockchain: How Can RWAs Liberate DeFi?",
+            "url": "https://dailycoin.com/real-world-assets-in-blockchain-how-can-rwa-liberate-defi/",
+            "body": "Will RWAs bridge the gap between TradFi and DeFi? Continue reading at DailyCoin.",
+            "tags": "Cryptopedia|zz_index|zz_popular|zz_top|DeFi|Real World Assets",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BLOCKCHAIN",
+            "source_info": {
+                "name": "Daily Coin",
+                "img": "https://images.cryptocompare.com/news/default/dailycoin.png",
+                "lang": "EN"
+            },
+            "source": "dailycoin"
+        },
+        {
+            "id": "13119395",
+            "guid": "https://cryptonews.com/exclusives/rivaling-visa-skyrocketing-trezor-binancing-all-and-20-crypto-jokes.htm",
+            "published_on": 1685786400,
+            "imageurl": "https://resources.cryptocompare.com/news/52/13119395.jpeg",
+            "title": "Rivaling Visa, Skyrocketing Trezor, Binancing All and 20 Crypto Jokes",
+            "url": "https://cryptonews.com/exclusives/rivaling-visa-skyrocketing-trezor-binancing-all-and-20-crypto-jokes.htm",
+            "body": "This week in crypto: Ethereum transaction volume rivaled Visa as blockchain transactions soared, Tether saw its market capitalization hit a new record high, a long-forgotten Ethereum ICO wallet resurfaced with $15 million worth of funds after eight years of dormancy, and Saifedean Ammous was appointed as an economic advisor to El Salvador's National Bitcoin Office,... Read More: Rivaling Visa, Skyrocketing Trezor, Binancing All and 20 Crypto Jokes",
+            "tags": "Features|Community|Humor",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ETH|WALLET|BLOCKCHAIN|BTC|ICO",
+            "source_info": {
+                "name": "cryptonews",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png",
+                "lang": "EN"
+            },
+            "source": "cryptonews"
+        },
+        {
+            "id": "13119326",
+            "guid": "https://coinpedia.org/?p=204629",
+            "published_on": 1685786400,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinpedia.png",
+            "title": "This Revolutionary AI Project Breaks Records During Its Presale. Could It Surpass Fetch (FET)?",
+            "url": "https://coinpedia.org/press-release/this-ai-project-breaks-records-during-presale-could-it-surpass-fetch/",
+            "body": "The post This Revolutionary AI Project Breaks Records During Its Presale. Could It Surpass Fetch (FET)? appeared first on Coinpedia Fintech News InQubeta, the revolutionary AI project, has taken the crypto world by storm, setting new records during its presale and capturing the attention of investors and enthusiasts alike. Since the launch of its presale, InQubeta has raised over $240,000 in just a few weeks, a remarkable achievement that has placed it at the forefront of the …",
+            "tags": "Press Release",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BUSINESS|ICO|SPONSORED",
+            "source_info": {
+                "name": "coinpedia",
+                "img": "https://images.cryptocompare.com/news/default/coinpedia.png",
+                "lang": "EN"
+            },
+            "source": "coinpedia"
+        },
+        {
+            "id": "13119277",
+            "guid": "https://coinedition.com/?p=273580",
+            "published_on": 1685786100,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "Crypto Analyst Projects Lower ETH Price Before Rallying Upward",
+            "url": "https://coinedition.com/crypto-analyst-projects-lower-eth-price-before-rallying-upward/",
+            "body": "Crypto analyst and trader known on Twitter as Crypto Tony has predicted a pullback in Ethereum’s price before an anticipated rally. Tony explained that he was not in any long position on Ethereum to avoid being stopped out. However, he waits for a solid pullback to find a long entry. Tony explained his analysis using The post Crypto Analyst Projects Lower ETH Price Before Rallying Upward appeared first on Coin Edition .",
+            "tags": "Market|News|Price Analysis|Ethereum News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "ETH|TRADING|MARKET",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13119258",
+            "guid": "https://cryptonews.com/news/ftx-exchange-objects-prolonged-mediation-talks-with-bankrupt-genesis-heres-latest.htm",
+            "published_on": 1685786040,
+            "imageurl": "https://resources.cryptocompare.com/news/52/13119258.jpeg",
+            "title": "FTX Exchange Objects to Prolonged Mediation Talks with Bankrupt Genesis – Here's the Latest",
+            "url": "https://cryptonews.com/news/ftx-exchange-objects-prolonged-mediation-talks-with-bankrupt-genesis-heres-latest.htm",
+            "body": "FTX and its affiliates have objected to extending court-mediated settlement talks for bankrupt crypto lender Genesis. In a recent court filing, FTX said it had not been invited to a court-appointed mediation in May that involved Genesis, its parent company Digital Currency Group, and creditor Gemini Trust Co, despite being a major Genesis creditor.... Read More: FTX Exchange Objects to Prolonged Mediation Talks with Bankrupt Genesis – Here's the Latest",
+            "tags": "Altcoin News|FTX|Genesis|Bankruptcy",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "EXCHANGE",
+            "source_info": {
+                "name": "cryptonews",
+                "img": "https://images.cryptocompare.com/news/default/cryptonews.png",
+                "lang": "EN"
+            },
+            "source": "cryptonews"
+        },
+        {
+            "id": "13119169",
+            "guid": "https://thecryptobasic.com/?p=49585",
+            "published_on": 1685785736,
+            "imageurl": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+            "title": "HSBC Acknowledges XRP Ledger as a Game Changer for Cross-Border Payments",
+            "url": "https://thecryptobasic.com/2023/06/03/hsbc-acknowledges-xrp-ledger-as-a-game-changer-for-cross-border-payments/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hsbc-acknowledges-xrp-ledger-as-a-game-changer-for-cross-border-payments",
+            "body": "HSBC recognizes the capabilities of XRPL in cross-border payment while highlighting its FX tool’s massive $250B transaction volume in the first year. HSBC, the largest Europe-based bank by total assets, has referenced the XRP Ledger (XRPL) for cross-border payments in a groundbreaking acknowledgment of the transformative potential of distributed ledger technology (DLT). The bank made The post HSBC Acknowledges XRP Ledger as a Game Changer for Cross-Border Payments first appeared on The Crypto Basic .",
+            "tags": "Market|Ripple|XRP|XRP Ledger",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "XRP|WALLET|FIAT|MARKET|TECHNOLOGY",
+            "source_info": {
+                "name": "The Crypto Basic",
+                "img": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+                "lang": "EN"
+            },
+            "source": "thecryptobasic"
+        },
+        {
+            "id": "13118957",
+            "guid": "https://news.bitcoin.com/?p=591514",
+            "published_on": 1685784621,
+            "imageurl": "https://resources.cryptocompare.com/news/14/13118957.jpeg",
+            "title": "Cathedra Bitcoin Unveils Plans for Off-Grid Bitcoin Mining in Texas",
+            "url": "https://news.bitcoin.com/cathedra-bitcoin-unveils-plans-for-off-grid-bitcoin-mining-in-texas/",
+            "body": "On Friday, Cathedra Bitcoin Inc. announced a partnership with 360 Mining, revealing plans to deploy mobile data centers and application-specific integrated circuit (ASIC) bitcoin miners at 360 Mining’s off-grid location in Texas. 360 Mining and Cathedra Bitcoin Announce Texas Bitcoin Mining Venture According to Cathedra Bitcoin (CBIT), the firm will be deploying bitcoin miners at",
+            "tags": "Mining|360 Mining|ASIC bitcoin miners|Bitcoin mining|BTC Mining|Cathedra|Cathedra Bitcoin Inc.|Energy efficiency|gross bitcoin mined|mining bitcoin|Mining BTC|mining capacity|mobile data centers|natural gas|off-grid location|partnership|Power Consumption|Rovers|Texas",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|MINING",
+            "source_info": {
+                "name": "Bitcoin.com",
+                "img": "https://images.cryptocompare.com/news/default/bitcoincom.png",
+                "lang": "EN"
+            },
+            "source": "bitcoin.com"
+        },
+        {
+            "id": "13118882",
+            "guid": "https://coinpedia.org/?p=204665",
+            "published_on": 1685784490,
+            "imageurl": "https://images.cryptocompare.com/news/default/coinpedia.png",
+            "title": "Centralized Exchange Volume Hits Rock Bottom, Decentralization Gains Prominence",
+            "url": "https://coinpedia.org/news/centralized-exchange-volume-hits-rock-bottom-decentralization-gains-prominence/",
+            "body": "The post Centralized Exchange Volume Hits Rock Bottom, Decentralization Gains Prominence appeared first on Coinpedia Fintech News In a noteworthy development for the cryptocurrency market, the trading volume of centralized exchanges experienced a substantial decline in May 2023, reaching its lowest point since October 2020. According to data from The Block, this decline amounted to a staggering $440 billion, reflecting a notable 27% decrease from the previous month. https://twitter.com/fredericogls/status/1664764689987911681?s=20 What is the …",
+            "tags": "News|Exchange News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "EXCHANGE|MARKET|TRADING",
+            "source_info": {
+                "name": "coinpedia",
+                "img": "https://images.cryptocompare.com/news/default/coinpedia.png",
+                "lang": "EN"
+            },
+            "source": "coinpedia"
+        },
+        {
+            "id": "13118812",
+            "guid": "https://coinedition.com/?p=273569",
+            "published_on": 1685784180,
+            "imageurl": "https://resources.cryptocompare.com/news/7/default.png",
+            "title": "BTC’s Recent Gain May Be Followed by a Sharp Drop in the Next 48H",
+            "url": "https://coinedition.com/btcs-recent-gain-may-be-followed-by-a-sharp-drop-in-the-next-48h/",
+            "body": "The crypto market leader Bitcoin (BTC) followed the same trend as the majority of the crypto market, which saw its collective market cap rise 0.35% over the past 24 hours. At press time, CoinMarketCap indicated that the collective crypto market cap stood at around $1.15 trillion. Meanwhile, BTC was changing hands at $27,202.39 following a The post BTC’s Recent Gain May Be Followed by a Sharp Drop in the Next 48H appeared first on Coin Edition .",
+            "tags": "Market|News|Price Analysis|Bitcoin News",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|MARKET",
+            "source_info": {
+                "name": "Coin Edition",
+                "img": "https://resources.cryptocompare.com/news/7/default.png",
+                "lang": "EN"
+            },
+            "source": "coinquora"
+        },
+        {
+            "id": "13118746",
+            "guid": "https://timestabloid.com/?p=16285",
+            "published_on": 1685783844,
+            "imageurl": "https://resources.cryptocompare.com/news/67/default.png",
+            "title": "Financial Analyst Says it Makes Sense for Ripple to Go Public When XRP is Low-priced. Here’s why",
+            "url": "https://timestabloid.com/financial-analyst-says-it-makes-sense-for-ripple-to-go-public-when-xrp-is-low-priced-heres-why/",
+            "body": "Ripple’s Initial Public Offering discussion started about two years ago. Particularly, before the class action lawsuit filed against the cross-border payments firm in December 2022 by the United States Securities and Exchange Commission (SEC). Although the lawsuit isn’t over yet, many are suggesting that Ripple would go public very soon, making them weigh up the The post Financial Analyst Says it Makes Sense for Ripple to Go Public When XRP is Low-priced. Here’s why appeared first on Times Tabloid .",
+            "tags": "Cryptocurrency|News|Ripple|Ripple IPO|XRP",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "XRP|EXCHANGE|ICO|REGULATION",
+            "source_info": {
+                "name": "TimesTabloid",
+                "img": "https://resources.cryptocompare.com/news/67/default.png",
+                "lang": "EN"
+            },
+            "source": "timestabloid"
+        },
+        {
+            "id": "13118701",
+            "guid": "https://thecryptobasic.com/?p=49567",
+            "published_on": 1685783729,
+            "imageurl": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+            "title": "New Terra Classic Proposal “Final Vision for LUNC to $1+” Seeks to Restore Edward Kim’s Burn Tax",
+            "url": "https://thecryptobasic.com/2023/06/03/new-terra-classic-proposal-final-vision-for-lunc-to-1-seeks-to-restore-edward-kims-burn-tax/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=new-terra-classic-proposal-final-vision-for-lunc-to-1-seeks-to-restore-edward-kims-burn-tax",
+            "body": "A Terra Classic validator seeks to bring LUNC to $1 by restoring the 1.2% burn tax rate previously introduced by Edward Kim. Terra Classic (LUNC) is a long way from achieving the community’s desired $1 price target outlined in the ongoing revitalization plan. Consequently, various proposals aiming to accelerate the revitalization process have surfaced, with The post New Terra Classic Proposal “Final Vision for LUNC to $1+” Seeks to Restore Edward Kim’s Burn Tax first appeared on The Crypto Basic .",
+            "tags": "Market|LUNC|LUNC Burn|Terra Classic",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "LUNC|REGULATION|MARKET|TRADING",
+            "source_info": {
+                "name": "The Crypto Basic",
+                "img": "https://images.cryptocompare.com/news/default/thecryptobasic.png",
+                "lang": "EN"
+            },
+            "source": "thecryptobasic"
+        },
+        {
+            "id": "13118700",
+            "guid": "https://dailyhodl.com/?p=247986",
+            "published_on": 1685783708,
+            "imageurl": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+            "title": "Analytics Firm Santiment Says Bitcoin To Catch Up With Rallying Stocks, Updates Outlook on XRP and Litecoin",
+            "url": "https://dailyhodl.com/2023/06/03/analytics-firm-santiment-says-bitcoin-to-catch-up-with-rallying-stocks-updates-outlook-on-xrp-and-litecoin/",
+            "body": "Blockchain analytics platform Santiment is saying that Bitcoin (BTC) has mostly stayed flat amid the recent bounce in the stock market. Santiment says that the stock market has climbed to its highest level in about 10 months as the US government resolves the debt ceiling issue. While Bitcoin has fallen behind the strong performance of The post Analytics Firm Santiment Says Bitcoin To Catch Up With Rallying Stocks, Updates Outlook on XRP and Litecoin appeared first on The Daily Hodl .",
+            "tags": "Altcoins|Bitcoin|Ripple and XRP|BTC|Litecoin|LTC|News|XRP",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|LTC|XRP|BUSINESS|MARKET",
+            "source_info": {
+                "name": "The Daily Hodl",
+                "img": "https://images.cryptocompare.com/news/default/dailyhodl.png",
+                "lang": "EN"
+            },
+            "source": "dailyhodl"
+        },
+        {
+            "id": "13118562",
+            "guid": "https://thenewscrypto.com/?p=75775",
+            "published_on": 1685783122,
+            "imageurl": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+            "title": "Marathon Digital Witnesses 77% Surge in BTC Mined in May",
+            "url": "https://thenewscrypto.com/marathon-digital-witnesses-77-surge-in-btc-mined-in-may/",
+            "body": "With the aid of its own software, Bitcoin miner Marathon Digital Holdings (MARA) mined 1,245 bitcoin in May, an increase",
+            "tags": "Bitcoin News|Tradingview|Bitcoin|Mining",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "BTC|MINING|TECHNOLOGY",
+            "source_info": {
+                "name": "The News Crypto",
+                "img": "https://images.cryptocompare.com/news/default/thenewscrypto.png",
+                "lang": "EN"
+            },
+            "source": "thenewscrypto"
+        },
+        {
+            "id": "13118540",
+            "guid": "https://www.cryptopolitan.com/?p=312996",
+            "published_on": 1685782988,
+            "imageurl": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+            "title": "Liquity price analysis: Bulls maintain an uptrend as LQTY touches $1.24",
+            "url": "https://www.cryptopolitan.com/liquity-price-analysis-2023-06-03/",
+            "body": "The Liquity price analysis (LQTY) market is showing signs of strength as the cryptocurrency continues to build upon its recent gains. The digital token has maintained an impressive uptrend over the past few days, with the price of LQTY rising above $1.24 today. The coin is up by nearly 4 percent in the past 24 ... Read more",
+            "tags": "Altcoin News|cryptocurrency|cryptocurrency trading|cryptomarket",
+            "lang": "EN",
+            "upvotes": "0",
+            "downvotes": "0",
+            "categories": "MARKET|TRADING|ICO",
+            "source_info": {
+                "name": "Cryptopolitan",
+                "img": "https://images.cryptocompare.com/news/default/cryptopolitan.png",
+                "lang": "EN"
+            },
+            "source": "cryptopolitan"
+        }
+    ],
+    "RateLimit": {},
+    "HasWarning": false
+}
