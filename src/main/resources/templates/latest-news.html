@@ -10,31 +10,35 @@
 
     <h1>Crypto News of the Day</h1>
     
-    <form method="post" th:action="/" th:if="${articles}" th:object="${save}">
+    <form method="post" action="/articles" th:unless="${#lists.isEmpty(articles)}">
 
-        <button type="submit" th:>Save</button>
+        <button type="submit" th:text="Save"></button>
 
 
-        <div th:each="article : ${articles}" th:object="${article}" >
+        <div th:each="article : ${articles}" th:object="${article}" class="article">
 
-            <img th:src="*{imageurl}" />
+            <img th:src="*{imageurl}" width="400px" />
 
-            <p>Id: <span th:text="*{id}"></span></p>
-            <br>
+            <div>
+                <p>Id: <span th:text="*{id}"></span></p>
+    
+                <h2><span th:text="*{title}"></span></h2>
+                
+                <p><span th:text="*{body}"></span></p>
+    
+                <p>Categories: <span th:text="*{categories}"></span></p>
 
-            <h2><span th:text="*{title}"></span></h2>
-            <br>
-            
-            <p><span th:text="*{body}"></span></p>
+                <p>Tags: <span th:text="*{tags}"></span></p>
+    
+                <p>Published: <span th:text="*{#dates.format(published_on * 1000, 'dd-MM-yyyy')}"></span></p>
 
-            <p>Categories: <span th:text="*{categories}"></span></p>
-            <p>Tags: <span th:text="*{tags}"></span></p>
-            <br>
+                <a th:href="*{url}"  target="_blank"  rel="noopener noreferrer">Link</a>
+            </div>
 
-            <p>Published: <span th:text="*{published_on}"></span></p>
-            <a th:href="*{url}">Link</a>
-            <input type="checkbox" th:field="*{id}" /> Save
+            <input type="checkbox" th:id="'save-' + *{id}" name="save" th:value="*{id}" />
+            <label th:for="'save-' + *{id}">Save</label>
 
+            <br><br><br>
         </div>
 
 

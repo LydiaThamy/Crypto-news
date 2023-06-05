@@ -9,12 +9,13 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import revision.practice_assessment_crypto.model.Article;
+import revision.practice_assessment_crypto.repository.NewsRepository;
 
 @Service
 public class NewsService {
     
-    // @Autowired
-    // private NewsRepository newsRepo;
+    @Autowired
+    private NewsRepository newsRepo;
 
     @Value("${revision.crypto.api.url}")
     private String url;
@@ -24,7 +25,7 @@ public class NewsService {
         RestTemplate template = new RestTemplate();
         ResponseEntity<String> resp = template.getForEntity(url, String.class);
         
-        List<Article> articles = Article.createList(resp.getBody());
+        List<Article> articles = Article.createList(resp.getBody()); // pass in the body which is a string?
 
         return articles;        
     }

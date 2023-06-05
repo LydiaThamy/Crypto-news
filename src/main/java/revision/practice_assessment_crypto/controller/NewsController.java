@@ -7,6 +7,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
 import jakarta.servlet.http.HttpSession;
 import revision.practice_assessment_crypto.model.Article;
@@ -23,13 +24,18 @@ public class NewsController {
 
         List<Article> articles = service.getArticles();
         m.addAttribute("articles", articles);
-        
+        session.setAttribute("articles", articles);
+
         return "latest-news";
     }
 
     @PostMapping(path = "/articles")
-    public String saveArticles() {
-        return "articles";
+    public String saveArticles(@RequestParam("save") List<String> id, HttpSession session, Model m) {
+        
+        List<Article> articles = (List<Article>) session.getAttribute("articles");
+        m.addAttribute("articles", articles);
+        
+        return "latest-news";
     }
 
 }

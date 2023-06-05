@@ -12,7 +12,7 @@ import jakarta.json.JsonReader;
 
 public class Article implements Serializable {
     private String id;
-    private int published_on;
+    private long published_on;
     private String imageurl;
     private String title;
     private String url;
@@ -32,11 +32,11 @@ public class Article implements Serializable {
         this.id = id;
     }
 
-    public int getPublished_on() {
+    public long getPublished_on() {
         return published_on;
     }
 
-    public void setPublished_on(int published_on) {
+    public void setPublished_on(long published_on) {
         this.published_on = published_on;
     }
 
@@ -101,7 +101,7 @@ public class Article implements Serializable {
         Article article = new Article();
 
         article.setId(jObj.getString("id"));
-        article.setPublished_on(jObj.getJsonNumber("published_on").intValue());
+        article.setPublished_on(jObj.getJsonNumber("published_on").longValue());
         article.setImageurl(jObj.getString("imageurl"));
         article.setTitle(jObj.getString("title"));
         article.setUrl(jObj.getString("url"));
@@ -117,11 +117,12 @@ public class Article implements Serializable {
         List<Article> articles = new ArrayList<>();
         
         JsonReader reader = Json.createReader(new StringReader(json));
-        JsonArray jArr = reader.readArray();
+        JsonObject jObj = reader.readObject();
+        JsonArray jArr = jObj.getJsonArray("Data");
         
         for (int i = 0; i < jArr.size(); i++) {
-            JsonObject jObj = jArr.getJsonObject(i);
-            Article article = Article.createArticle(jObj);
+            JsonObject o = jArr.getJsonObject(i);
+            Article article = Article.createArticle(o);
             articles.add(article);
         }
 

@@ -31,8 +31,8 @@ public class RedisConfig {
     @Value("${spring.data.redis.password}")
     private String redisPassword;
     
-    @Bean ("crypto")
-    @Scope("Singleton")
+    @Bean("crypto")
+    @Scope("singleton")
     public RedisTemplate<String, Object> RedisTemplate() {
         final RedisStandaloneConfiguration config = new RedisStandaloneConfiguration();
         config.setHostName(redisHost);
@@ -57,6 +57,7 @@ public class RedisConfig {
 
         r.setKeySerializer(new StringRedisSerializer());
         r.setValueSerializer(new JdkSerializationRedisSerializer());
+        // for conversion of Java object to JSON
 
         return r;
     }
