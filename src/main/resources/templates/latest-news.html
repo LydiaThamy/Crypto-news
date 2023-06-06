@@ -13,6 +13,7 @@
     <form method="post" action="/articles" th:unless="${#lists.isEmpty(articles)}">
 
         <button type="submit" th:text="Save"></button>
+        <br><br>
 
 
         <div th:each="article : ${articles}" th:object="${article}" class="article">

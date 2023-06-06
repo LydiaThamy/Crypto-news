@@ -1,5 +1,6 @@
 package revision.practice_assessment_crypto.controller;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -19,22 +20,27 @@ public class NewsController {
     @Autowired
     private NewsService service;
 
-    @GetMapping(path="/", produces = { "text/html" } )
-    public String getLatestNews(Model m, HttpSession session){
+    @GetMapping(path= {"/", "/articles"}, produces = {"text/html"} )
+    public String getLatestNews(Model m){
 
+        // populate HTML with articles
         List<Article> articles = service.getArticles();
         m.addAttribute("articles", articles);
-        session.setAttribute("articles", articles);
 
         return "latest-news";
     }
 
     @PostMapping(path = "/articles")
-    public String saveArticles(@RequestParam("save") List<String> id, HttpSession session, Model m) {
-        
-        List<Article> articles = (List<Article>) session.getAttribute("articles");
+    public String saveArticles(@RequestParam("save") List<String> savedIds, Model m) {
+
+        // populate HTML with articles
+        List<Article> articles = service.getArticles();
         m.addAttribute("articles", articles);
         
+        // save articles
+        service.saveArticles(savedIds, articles);
+        m.addAttribute("save", new ArrayList<String>());
+
         return "latest-news";
     }
 

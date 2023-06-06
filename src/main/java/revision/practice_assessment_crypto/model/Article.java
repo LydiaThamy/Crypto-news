@@ -7,6 +7,7 @@ import java.util.List;
 
 import jakarta.json.Json;
 import jakarta.json.JsonArray;
+import jakarta.json.JsonArrayBuilder;
 import jakarta.json.JsonObject;
 import jakarta.json.JsonReader;
 
@@ -129,19 +130,17 @@ public class Article implements Serializable {
         return articles;
     }
 
-    // public static Article createArticle(JsonObject jObj) {
-    //     Article article = new Article();
+    public static JsonObject toJson(Article a){
 
-    //     article.setId(jObj.getString("id"));
-    //     article.setPublished_on(jObj.getJsonNumber("published_on").intValue());
-    //     article.setImageurl(jObj.getString("imageurl"));
-    //     article.setTitle(jObj.getString("title"));
-    //     article.setUrl(jObj.getString("url"));
-    //     article.setBody(jObj.getString("body"));
-    //     article.setTags(jObj.getString("tags"));
-    //     article.setCategories(jObj.getString("categories"));
-
-    //     return article;
-    // }
-
+        return Json.createObjectBuilder()
+        .add("id", a.getId())
+        .add("published_on", a.getPublished_on())
+        .add("imageurl", a.getImageurl())
+        .add("title", a.getTitle())
+        .add("url", a.getUrl())
+        .add("body", a.getBody())
+        .add("tags", a.getTags())
+        .add("categories", a.getCategories())
+        .build();
+    }
 }

@@ -11,6 +11,7 @@ import org.springframework.data.redis.connection.jedis.JedisClientConfiguration;
 import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.serializer.JdkSerializationRedisSerializer;
+import org.springframework.data.redis.serializer.RedisSerializer;
 import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 @Configuration
@@ -56,7 +57,11 @@ public class RedisConfig {
         r.setConnectionFactory(jedisFac);
 
         r.setKeySerializer(new StringRedisSerializer());
-        r.setValueSerializer(new JdkSerializationRedisSerializer());
+        
+        RedisSerializer<Object> objSerializer = new JdkSerializationRedisSerializer(getClass().getClassLoader());
+        r.setValueSerializer(objSerializer);
+        
+        // r.setValueSerializer(new JdkSerializationRedisSerializer());
         // for conversion of Java object to JSON
 
         return r;
