@@ -10,9 +10,10 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
+import org.springframework.web.util.UriBuilder;
+import org.springframework.web.util.UriComponentsBuilder;
 
 import jakarta.json.Json;
-import jakarta.json.JsonArray;
 import jakarta.json.JsonObject;
 import jakarta.json.JsonReader;
 import revision.practice_assessment_crypto.model.Article;
@@ -25,7 +26,10 @@ public class NewsService {
     private NewsRepository newsRepo;
 
     @Value("${revision.crypto.api.url}")
-    private String url;
+    private String apiUrl;
+
+    @Value("${revision.crypto.api.key}")
+    private String apiKey;
 
     public String getUser() {
         return UUID.randomUUID().toString().substring(0, 5);
@@ -34,6 +38,13 @@ public class NewsService {
     public List<Article> getArticles() {
 
         RestTemplate template = new RestTemplate();
+
+        String url = UriComponentsBuilder
+            .fromUriString(apiUrl)
+            .queryParam("lang", "EN")
+            .queryParam("api_key", apiKey)
+            .toUriString();
+
         ResponseEntity<String> resp = template.getForEntity(url, String.class);
 
         List<Article> articles = Article.createList(resp.getBody());

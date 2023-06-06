@@ -12,4 +12,7 @@
 7. Write a method in NewsRepo to handle the saving of selected articles into the Redis database
 
 #Task 4
-8.
+8. Write a Rest Controller to handle the request of articles via their id
+
+#Task 5
+9. Upload to Railway
